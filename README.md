@@ -23,7 +23,7 @@ This application was vibe coded in **Google AI Studio** using **Gemini**:
 - **Architecture:** Zero-dependency, single-file `index.html` web application.
 - **Frontend & Visualizations:** Tailwind CSS and Chart.js via CDN.
 - **Model Tuning:** Temperature set to `0.2` to ensure deterministic math calculations and avoid hallucinated formula syntax.
-- **Prompts:** Full system and functional prompts are documented in [`/prompt-engineering`](./prompt-engineering).
+- **Prompts:** Full system and functional prompts are documented in [`/prompt-engineering`](./prompt_engineering).
 
 ---
 
