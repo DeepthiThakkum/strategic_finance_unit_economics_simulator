@@ -6,7 +6,7 @@
 An interactive strategic finance dashboard built to evaluate customer acquisition cost (CAC) payback curves, customer lifetime value (LTV), and cash trough timing under shifting billing structures.
 
 ## 🚀 Live Demo
-Test the live simulator in your browser: **[Open Simulator](https://<your-username>.github.io/strategic-finance-unit-economics-simulator/)**
+Test the live simulator in your browser: **[Open Simulator](https://deepthithakkum.github.io/strategic_finance_unit_economics_simulator/)**
 
 ---
 
